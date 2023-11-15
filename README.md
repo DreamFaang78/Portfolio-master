@@ -1,4 +1,3 @@
-<h1 href="https://portfolio-master-2db091yhw-dreamfaang78s-projects.vercel.app/">Project Link </h1>
 <h1>My Portfolio</h1>
 <hr><p>A Simple Yet Attractive Portfolio Build With React and Tailwindcss</p><h2>General Information</h2>
 <hr><ul>
